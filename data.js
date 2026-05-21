@@ -85,7 +85,7 @@
             img: "siswa/bais.jfif"
          },     
          {
-            id: 8,
+            id: 8,  
             name: "Salwa Khaerunnisa", 
             class: "RPL 1", 
             quote: "Berbagai cobaan dan hal yang buat kau ragu jadikan percikan 'tuk menerpa tekadmu jalan hidupmu hanya milikmu sendiri rasakan nikmatnya hidupmu hari ini", 
